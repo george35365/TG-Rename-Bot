@@ -44,3 +44,4 @@ The given file name has {num} characters.
 <b>Essays Not allowed in Telegram file name!</b>
 ©️ <code>@ReNameBot</code>
 Please short your file name and try again!"""
+    REPLY_TO_DOC_FOR_C2V = "Reply to a Telegram media to convert"
